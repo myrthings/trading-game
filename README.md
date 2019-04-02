@@ -32,12 +32,11 @@
 
 
 ### Instrucciones para el jugador:
-1. Cambiar las constantes del client en `client_trading.py` y en `aux_trading.py`.
-2. Ejecutar el cliente
+1. Ejecutar el cliente
   - Si ocurren problemas:
-     - Cambiar las constantes de broker y listener-client (si no estaban predeterminadas)
-     - Cambiar el directorio del archivo auxiliar en la constante global aux
-3. Jugar!
+     - Cambiar las constantes de broker y listener-client en `client_trading.py` y en `aux_trading.py` (si no estaban predeterminadas)
+     - Cambiar el directorio del archivo `aux_trading.py` en la constante global aux.
+2. Jugar!
 
 ```
 Creado por:
