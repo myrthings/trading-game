@@ -1,5 +1,14 @@
-# README
+# Trading game
+Game that simulates investing in ibex35 (Madrid stock market). It was built using concurrent programming for Math Degree with minor in Computer Science at UCM. 
 
+## How it workds
+There's a server and a client. They use multiprocessing library to connect with each other for trading, but also paho-mqtt to create a channel for posting the values of the stock market chosen by a user.
+
+*The game is in Spanish.*
+
+----
+
+## Léeme
 ### Requisitos del sistema:
 **Lenguaje:**
  - python3
