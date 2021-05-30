@@ -49,7 +49,7 @@ There's a server and a client. They use multiprocessing library to connect with 
 
 ```
 Creado por:
- - Myriam Barnés Guevara
+ - 
  - Jessica Costoso Martín
  - Juan Manuel Espinosa Rodríguez
  - Eduardo Ortega Marazuela
